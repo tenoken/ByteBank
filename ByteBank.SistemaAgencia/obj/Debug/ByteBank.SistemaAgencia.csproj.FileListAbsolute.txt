@@ -1,0 +1,11 @@
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+D:\csharppt6-aula3\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

@@ -1,0 +1,7 @@
+D:\csharppt6-aula3\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+D:\csharppt6-aula3\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+D:\csharppt6-aula3\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+D:\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+D:\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+D:\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+D:\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
